@@ -1,7 +1,8 @@
 title: Rest Is Good
 author: GitHub User
 email: your-email@domain.com
-description: This is description
+description: >
+This is description
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl:
 
