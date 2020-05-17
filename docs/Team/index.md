@@ -6,7 +6,7 @@
 
 1. 팀장
 
-  ![Not Found..](/imagefile/Dorika0203.jpeg)
+  ![Not Found..](/docs/imagefile/Dorika0203.jpeg)
 
   팀장 소개글
   
