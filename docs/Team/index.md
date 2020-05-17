@@ -4,20 +4,26 @@
 구성원 소개
 ---------------------
 
-1. 팀장
+1. 학번 이름(팀장)
 
   ![Not Found..](/docs/imagefile/Dorika0203.jpeg)
-
-  팀장 소개글
   
-2. 팀원 1
-
-  팀원 1 소개글
-
-3. 팀원 2
-
-  팀원 2 소개글
+  안녕하세요 이건 소개글입니다.
   
-4. 팀원 3
+2. 2017311725 김도열(팀원)
+
+  ![Not Found..](/docs/imagefile/Dorika0203.jpeg)
   
-  팀원 3 소개글
+  안녕하세요 소프트웨어학과 17학번 김도열입니다.
+
+3. 학번 이름(팀원)
+
+  ![Not Found..](/docs/imagefile/Dorika0203.jpeg)
+  
+  안녕하세요 이건 소개글입니다.
+  
+4. 학번 이름(팀원)
+
+  ![Not Found..](/docs/imagefile/Dorika0203.jpeg)
+  
+  안녕하세요 이건 소개글입니다.
