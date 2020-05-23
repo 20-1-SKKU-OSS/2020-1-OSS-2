@@ -76,6 +76,15 @@
           {%- endif -%}
         </ul>
       {%- endif -%}
+	  
+	  {%- if _show_author_profile -%}
+		{%- if page.author -%}
+		  {%- assign _author = site.data.authors[page.author] -%}
+		{%- else -%}
+		  {%- assign _author = site.author -%}
+		{%- endif -%}
+		{%- include article/footer/author-profile.html author=_author -%}
+	  {%- endif -%}
 
     </div>
   {%- endif -%}
