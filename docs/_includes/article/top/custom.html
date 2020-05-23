@@ -1,3 +1,15 @@
 <!-- start custom article top snippet -->
+{%- include snippets/assign.html
+  target=site.data.variables.default.page.show_author_profile
+  source0=layout.show_author_profile source1=page.show_author_profile -%}
+{%- assign _show_author_profile = __return -%}
 
+{%- if _show_author_profile -%}
+  {%- if page.author -%}
+    {%- assign _author = site.data.authors[page.author] -%}
+  {%- else -%}
+    {%- assign _author = site.author -%}
+  {%- endif -%}
+  {%- include article/top/author-profile.html author=_author -%}
+{%- endif -%}
 <!-- end custom article top snippet -->
