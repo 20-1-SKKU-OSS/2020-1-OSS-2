@@ -5,7 +5,7 @@ show_author_profile: true
 tags: Python_Getting_Started Pre_Investigation Open_Source_Software
 ---
 
-### Microsoft Open Source code of conduct
+### Microsoft Open Source Code of Conduct
 
 #### Be friendly and patient 
 당신은 다른 사람의 주된 언어나 프로그래밍 언어로 의사소통하고 있지 않을 수도 있고,  
@@ -39,3 +39,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) 
 or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 ```
+
+#### 관련 명시
+이 문서는 [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) 의 내용을
+번역, 일부 수정하여 작성된 문서이며 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) 하에 수정하여 작성되었음을 알립니다.
