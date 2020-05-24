@@ -6,6 +6,7 @@ tags: TeXt
 ---
 
 [Closed PR 상황]
+
 [Closed]
 #8 A small code that could be used as Do While Loop. (Closed)
 - python에는 do while 문법이 없지만 do while 문법 기능과 동일한 기능을 하는 while True문 코드를 python-for-beginners / 12 - Loops 폴더에 추가함
