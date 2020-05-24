@@ -2,7 +2,7 @@
 title: python_getting_started 프로젝트 기여 계획
 author: Hyuntae-Jeong
 show_author_profile: true
-tags: Python_Getting_Started, Pre_Investigation
+tags: Python_Getting_Started Pre_Investigation
 ---
 
 [활동 방법 정리]

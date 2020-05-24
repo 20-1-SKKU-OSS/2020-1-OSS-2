@@ -2,7 +2,7 @@
 title: MIT 라이센스에 관하여
 author: Dorika0203
 show_author_profile: true
-tags: Python_Getting_Started, Pre_Investigation, Open_Source_Software
+tags: Python_Getting_Started Pre_Investigation Open_Source_Software
 ---
 
 What is MIT Lisence?
