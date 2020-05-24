@@ -71,7 +71,3 @@ tags: Python_Getting_Started Pre_Investigation Role
 * `python-for-beginners`의 코드들에 대해서 직관적인 설명이 필요한 부분을 찾아 주석추가 작성 및 이해에 도움이 될 정보 추가
 * `python-for-beginners`의 Slides 폴더 내의 문서 Leading Zero 추가 
 * 전체적인 내용에 대해, 직접 코드를 실행하고 확인하면서 문제 발생 가능성에 대한 검토
-
-
-
-#### 끝
