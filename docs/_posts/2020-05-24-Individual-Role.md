@@ -52,6 +52,7 @@ tags: Python_Getting_Started Pre_Investigation Role
 <div>{%- assign _a4 = site.data.authors["jesusleejy"] -%}</div>
 <div>{%- include article/footer/author-profile.html author=_a4 -%}</div>
 
+- `TBD`{:.error}
 
 
 
@@ -68,6 +69,4 @@ tags: Python_Getting_Started Pre_Investigation Role
 - 전체적인 내용에 대해, 직접 코드를 실행하고 확인하면서 문제 발생 가능성에 대한 검토
 
 
-
-
-
+## 끝
