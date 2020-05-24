@@ -5,7 +5,7 @@ show_author_profile: true
 tags: Python_Getting_Started Pre_Investigation
 ---
 
-[활동 방법 정리]
+### 활동 방법 정리
 
 - 오타 수정
 - python-for-beginners 폴더 내에 폴더 숫자 02부터 시작하는거 01부터 시작하도록 수정

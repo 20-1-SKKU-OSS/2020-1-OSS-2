@@ -8,7 +8,7 @@ tags: Python_Getting_Started Pre_Investigation, Issue
 Rescent Issues
 ==============================
 
-링크: https://github.com/microsoft/c9-python-getting-started/issues
+링크: [https://github.com/microsoft/c9-python-getting-started/issues](https://github.com/microsoft/c9-python-getting-started/issues)
 
 ## 최근 이슈(요약)
 - 1번: 이슈를 제기한 사람 설명이 부족
