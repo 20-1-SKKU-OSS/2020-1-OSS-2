@@ -1,8 +1,8 @@
 ---
-title: Closed Pull Request
+title: python_getting_started 프로젝트 닫힌 Pull Request
 author: Hyuntae-Jeong
 show_author_profile: true
-tags: TeXt
+tags: Python_Getting_Started, Pre_Investigation, Pull_Request
 ---
 
 `정보`{:.info}

@@ -1,8 +1,8 @@
 ---
-title: Code of Conduct
+title: Microsoft Open Source Code of Conduct
 author: jesusleejy
 show_author_profile: true
-tags: TeXt
+tags: Python_Getting_Started, Pre_Investigation, Open_Source_Software
 ---
 
 ### Microsoft Open Source code of conduct

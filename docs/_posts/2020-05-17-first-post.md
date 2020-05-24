@@ -2,7 +2,7 @@
 title: 정적 페이지 생성
 author: devquint
 show_author_profile: true
-tags: TeXt
+tags: TeXt, markdown
 ---
 
 [TeXt 테마](https://github.com/kitian616/jekyll-TeXt-theme)를 사용했습니다.
