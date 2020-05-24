@@ -63,9 +63,7 @@ tags: Python_Getting_Started Pre_Investigation Role
 <div>{%- assign _a5 = site.data.authors["Hyuntae-Jeong"] -%}</div>
 <div>{%- include article/footer/author-profile.html author=_a5 -%}</div>
 
-- `python-for-beginners`의 모든 README.md에 대하여
-	* 초보자 관점에서의 추가 영어 및 한글 부가설명 작성
-	* 적합한 Programming Concept에 대한 정보 추가
+- `python-for-beginners`의 모든 README.md에 대하여 초보자 관점에서의 추가 영어 및 한글 부가설명 작성 및 적합한 Programming Concept에 대한 정보 추가
 - `python-for-beginners`의 코드들에 대해서 직관적인 설명이 필요한 부분을 찾아 주석추가 작성 및 이해에 도움이 될 정보 추가
 - `python-for-beginners`의 Slides 폴더 내의 문서 Leading 0 추가 
 - 전체적인 내용에 대해, 직접 코드를 실행하고 확인하면서 문제 발생 가능성에 대한 검토
