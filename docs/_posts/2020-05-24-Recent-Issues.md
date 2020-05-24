@@ -20,11 +20,13 @@ Rescent Issues
 
 ## 상세 내용
 
+
 ### 1번 (2020-05-07)
 
 제목: python store the previous value
 
 이해불가 (이슈 작성자의 설명이 구체적이지 못함)
+
 
 ### 2번 (2019-10-25)
 
@@ -38,7 +40,8 @@ python-for-beginners
 해결될 예정.
 
 
-### 3번 2019-10-16
+
+### 3번 (2019-10-16)
 
 제목: 18 - Decorators
 
@@ -48,7 +51,8 @@ python-for-beginners/Slides
 0단원 Intro부터 17단원 JSON까지는 있는데, 마지막 단원인 18단원 Decorators에 대한 ppt가 아직 없다.
 아직 해결되지 않음.
 
-### 4번 2019-10-14
+
+### (4번 2019-10-14)
 
 제목: String formatting code is missing #34
 
@@ -62,7 +66,8 @@ python-for-beginners
 
 해결될 예정.
 
-### 5번 2019-09-27
+
+### 5번 (2019-09-27)
 
 제목: No link to videos
 
@@ -70,7 +75,8 @@ python-for-beginners
 
 해결될 예정.
 
-### 6. 2019-09-26
+
+### 6번 (2019-09-26)
 
 제목: SUBSCRIPTION_KEY in 16 - Calling APIs/call_api.py should be in separate config (like .ini) file #14
 
