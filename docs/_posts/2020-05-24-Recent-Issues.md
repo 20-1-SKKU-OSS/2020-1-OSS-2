@@ -2,7 +2,7 @@
 title: python_getting_started 프로젝트 최근 Issue
 author: Dorika0203
 show_author_profile: true
-tags: Python_Getting_Started Pre_Investigation, Issue
+tags: Python_Getting_Started Pre_Investigation Issue
 ---
 
 Rescent Issues
