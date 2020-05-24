@@ -5,6 +5,7 @@ show_author_profile: true
 tags: TeXt
 ---
 
+`정보`{:.info}
 [Closed PR 상황]
 
 [Closed]
