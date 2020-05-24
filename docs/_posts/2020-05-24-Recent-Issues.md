@@ -38,7 +38,7 @@ python-for-beginners
 
 즉, 부가설명 차원에 걸어놓은 링크가 올바르게 설정되지 않았고, 5월 21일 이 이슈를 해결하는 pull request 요청이 있었으나 아직 합병되지 않았다.
 
-풀 리퀘스트 링크: https://github.com/microsoft/c9-python-getting-started/pull/56
+[풀 리퀘스트 링크](https://github.com/microsoft/c9-python-getting-started/pull/56)
 
 해결될 예정.
 
@@ -65,7 +65,7 @@ python-for-beginners
 
 이슈를 제시한 사람이 해결 후 pull request를 요청했으나, conflict가 있고 아직 합병되지 않았다.
 
-풀 리퀘스트 링크: https://github.com/microsoft/c9-python-getting-started/pull/30/commits/10b506c03bdbb0e4a95136613a0a65534a0d76bc
+[풀 리퀘스트 링크](https://github.com/microsoft/c9-python-getting-started/pull/30/commits/10b506c03bdbb0e4a95136613a0a65534a0d76bc)
 
 해결될 예정.
 
@@ -76,7 +76,7 @@ python-for-beginners
 
 제일 상위폴더에 있는 README.md에 Overview 부분에서 설명하는 youtube 동영상 강의에 대한 소개가 있는데,링크가 걸려있지 않아서 이슈가 제시되었다. 이에 대한 pull request 요청이 있었으나, conflict가 있고 아직 merge 되지 않았다.
 
-풀 리퀘스트 링크: https://github.com/microsoft/c9-python-getting-started/pull/27
+[풀 리퀘스트 링크](https://github.com/microsoft/c9-python-getting-started/pull/27)
 
 해결될 예정.
 
