@@ -9,7 +9,9 @@ tags: Python_Getting_Started Pre_Investigation Role
 
 선호에 따라서 원하는 내용을 진행하기로 하였습니다. 이 내용은 초안이며, 추후 프로젝트 진행에 따라 달라질 수 있습니다.
 
-## 강성민
+
+
+## 강성민 `팀장`{:.info}
 
 <div>{%- assign _a1 = site.data.authors["devquint"] -%}</div>
 <div>{%- include article/footer/author-profile.html author=_a1 -%}</div>
@@ -30,7 +32,7 @@ tags: Python_Getting_Started Pre_Investigation Role
 - `more-python-for-beginners`의 코드 내용 검증
 - `more-python-for-beginners`의 오류 발견 및 수정
 - `more-python-for-beginners`의 문서 부연 설명, 코드 내 주석 작성
-- Issue 중 Pull Request가 없는 issue #3, #6에 대해 해결하여 Pull Request
+- Issue 중 Pull Request가 없는 issue `#3`, `#6`에 대해 해결하여 Pull Request
 - `more-python-for-beginners`의 이해하기 힘들거나 어려운 부분에 대해 Issue 작성
 
 
@@ -62,8 +64,8 @@ tags: Python_Getting_Started Pre_Investigation Role
 <div>{%- include article/footer/author-profile.html author=_a5 -%}</div>
 
 - `python-for-beginners`의 모든 README.md에 대하여
-	- 초보자 관점에서의 추가 영어 및 한글 부가설명 작성
-	- 적합한 Programming Concept에 대한 정보 추가
+	* 초보자 관점에서의 추가 영어 및 한글 부가설명 작성
+	* 적합한 Programming Concept에 대한 정보 추가
 - `python-for-beginners`의 코드들에 대해서 직관적인 설명이 필요한 부분을 찾아 주석추가 작성 및 이해에 도움이 될 정보 추가
 - `python-for-beginners`의 Slides 폴더 내의 문서 Leading 0 추가 
 - 전체적인 내용에 대해, 직접 코드를 실행하고 확인하면서 문제 발생 가능성에 대한 검토
