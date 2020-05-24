@@ -37,6 +37,9 @@ python-for-beginners
 챕터 15(Package)에 대한 부분에서 README.md 의 virtul enviroment에 대한 설명 링크가 예외처리에 대한 글의 주소로 링크가 되어있었다.
 
 즉, 부가설명 차원에 걸어놓은 링크가 올바르게 설정되지 않았고, 5월 21일 이 이슈를 해결하는 pull request 요청이 있었으나 아직 합병되지 않았다.
+
+풀 리퀘스트 링크: https://github.com/microsoft/c9-python-getting-started/pull/56
+
 해결될 예정.
 
 
@@ -72,6 +75,8 @@ python-for-beginners
 제목: No link to videos
 
 제일 상위폴더에 있는 README.md에 Overview 부분에서 설명하는 youtube 동영상 강의에 대한 소개가 있는데,링크가 걸려있지 않아서 이슈가 제시되었다. 이에 대한 pull request 요청이 있었으나, conflict가 있고 아직 merge 되지 않았다.
+
+풀 리퀘스트 링크: https://github.com/microsoft/c9-python-getting-started/pull/27
 
 해결될 예정.
 
