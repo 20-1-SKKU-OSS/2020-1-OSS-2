@@ -1,0 +1,16 @@
+name        : devquint
+id          : devquint
+realnameEN  : Sungmin Kang
+realnameKR  : 강성민
+teamwork:
+  - desc    : "팀장"
+    linked  :
+    link    :
+  - desc    : "작업 내용 저장용 템플릿 코드 제작"
+    linked  : "정적 페이지 포스트"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/28/Made-Work-Template.html"
+projectwork:
+  - desc    : "아직 없음"
+    linked  : 
+    link    : 
+    core    : false
