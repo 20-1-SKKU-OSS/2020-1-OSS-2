@@ -5,16 +5,16 @@ realnameKR  : 평범한
 teamwork:
   - desc    : "Posted totally total thing"
     linked  : "Static page post(Korean)"
-    link    : "https://naver.com"
+    link    : "https://some-static-page/total"
   - desc    : "Posted partially partial thing with English"
     linked  : "Static page post"
-    link    : "https://naver.com"
+    link    : "https://some-static-page/partial"
   - desc    : "Reviewed merging some branches"
     linked  : "Team Repo. - Pull Request #5"
-    link    : "https://daum.net"
+    link    : "https://team-repo/pull/5"
   - desc    : "Reviewed commit of teammate"
     linked  : "Team Repo. - comment for commit 8e74c28"
-    link    : "https://daum.net"
+    link    : "https://team-repo/commit/8e74c28..."
   - desc    : "Took a rest"
     linked  :
     link    :
@@ -24,24 +24,28 @@ teamwork:
 projectwork:
   - desc    : "Commited some thing"
     linked  : "Team Repo. - commit 8e74c28"
-    link    : "https://naver.com"
+    link    : "https://team-repo/commit/8e74c28..."
     core    : true
   - desc    : "Fixed some good problem"
     linked  : "Project Repo - Pull Request #2 (approved)"
-    link    : "https://naver.com"
+    link    : "https://project-main/pull/2"
     core    : true
   - desc    : "Tried to fix small problem"
     linked  : "Project Repo. - Pull Request #5 (rejected)"
-    link    : "https://naver.com"
+    link    : "https://project-main/pull/5"
     core    : false 
   - desc    : "Reported important error first"
     linked  : "Project Repo. - Issue #12 (marked good_first_issue)"
-    link    : "https://naver.com"
+    link    : "https://project-main/issue/12"
     core    : true 
-  - desc    : "Reported important error first"
-    linked  : "Project Repo. - Issue #12 (marked good_first_issue)"
-    link    : "https://naver.com"
-    core    : false 
+  - desc    : "Reported minor error"
+    linked  : "Project Repo. - Issue #17"
+    link    : "https://project-main/issue/17"
+    core    : false   
+  - desc    : "Dealt with merging long codes"
+    linked  : "details at static page post(KR)"
+    link    : "https://some-static-page/details/works"
+    core    : true
   - desc    : "FreeRide"
     linked  :
     link    :
