@@ -43,7 +43,7 @@ projectwork:
     link    : "https://project-main/issue/17"
     core    : false   
   - desc    : "Dealt with merging long codes"
-    linked  : "details at static page post(KR)"
+    linked  : "details at static page post(Korean)"
     link    : "https://some-static-page/details/works"
     core    : true
   - desc    : "FreeRide"
