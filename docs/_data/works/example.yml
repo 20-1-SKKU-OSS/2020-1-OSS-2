@@ -14,7 +14,7 @@ teamwork:
     link    : "https://team-repo/pull/5"
   - desc    : "Reviewed commit of teammate"
     linked  : "Team Repo. - comment for commit 8e74c28"
-    link    : "https://team-repo/commit/8e74c28..."
+    link    : "https://team-repo/commit/8e74c28...#issuecomment-123456"
   - desc    : "Took a rest"
     linked  :
     link    :
