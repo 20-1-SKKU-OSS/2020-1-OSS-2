@@ -1,0 +1,71 @@
+{%- include snippets/get-article-title.html article=include.article-%}
+{%- assign _article_title = __return -%}
+
+{%- assign _targetData = include.userdata -%}
+
+
+{%- assign _show_teams = include.show_teams -%}
+
+{%- assign _show_projects = include.show_projects -%}
+
+{%- assign _only_core = include.only_core -%}
+
+
+
+{%- assign user = _targetData -%}
+
+{% if _show_teams != nil %}
+	{% if _show_teams == true %}
+		{% assign show_teams = true %}
+	{% else %}
+		{% assign show_teams = false %}
+	{% endif %}
+{% elsif _only_core != nil %}
+	{% if _only_core == true %}
+		{% assign show_teams = false %}
+	{% else %}
+		{% assign show_teams = true %}
+	{% endif %}
+{% else %}
+	{% assign show_teams = true %}
+{% endif %}
+
+{% if _show_projects != nil %}
+	{% if _show_projects == true %}
+		{% assign show_projects = true %}
+	{% else %}
+		{% assign show_projects = false %}
+	{% endif %}
+{% else %}
+	{% assign show_projects = true %}
+{% endif %}
+
+{% if _only_core != nil %}
+	{% if _only_core == true %}
+		{% assign noncore_allowed = false %}
+	{% else %}
+		{% assign noncore_allowed = true %}
+	{% endif %}
+{% else %}
+	{% assign noncore_allowed = true %}
+{% endif %}
+
+<ul>
+{% if show_teams %}
+{% for work in user.teamwork %}
+  <li>
+	{{ work.desc }}{% if work.linked %}, <a href="{{ work.link }}">{{ work.linked }}</a>{% endif %}
+  </li>
+{% endfor %}
+{% endif %}
+
+{% if show_projects %}
+{% for work in user.projectwork %}
+  {% if noncore_allowed == true or work.core == true %}
+  <li>
+    {{ work.desc }}{% if work.linked %}, <a href="{{ work.link }}">{{ work.linked }}</a>{% endif %}
+  </li>
+  {% endif %}
+{% endfor %}
+{% endif %}
+</ul>
