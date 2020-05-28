@@ -1,0 +1,34 @@
+name        : example guy
+id          : example
+realnameEN  : Normal One
+realnameKR  : 평범한
+teamwork:
+  - desc    : "Example work 1 at team"
+    linked  : "Team Issue #2"
+    link    : "https://naver.com"
+  - desc    : "Example work 2 at team"
+    linked  : "Team Issue #5"
+    link    : "https://daum.net"
+  - desc    : "Took a rest"
+    linked  :
+    link    :
+  - desc    : "Aal izz well"
+    linked  : "Youtube"
+    link    : "https://www.youtube.com/watch?v=S-LltgOtFSg"
+projectwork:
+  - desc    : "Example worked at oss project 1"
+    linked  : "Team PR #2"
+    link    : "https://naver.com"
+    core    : true
+  - desc    : "Example worked at oss project 2"
+    linked  : "Project PR #2 (approved)"
+    link    : "https://naver.com"
+    core    : true
+  - desc    : "Example worked at oss project 3"
+    linked  : "Project PR #5 (closed)"
+    link    : "https://naver.com"
+    core    : false 
+  - desc    : "FreeRide"
+    linked  :
+    link    :
+    core    : true 
