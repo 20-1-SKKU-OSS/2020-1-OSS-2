@@ -3,11 +3,17 @@ id          : example
 realnameEN  : Normal One
 realnameKR  : 평범한
 teamwork:
-  - desc    : "Example work 1 at team"
-    linked  : "Team Repo. - Issue #2"
+  - desc    : "Posted totally total thing"
+    linked  : "Static page post(Korean)"
     link    : "https://naver.com"
-  - desc    : "Example work 2 at team"
+  - desc    : "Posted partially partial thing with English"
+    linked  : "Static page post"
+    link    : "https://naver.com"
+  - desc    : "Reviewed merging some branches"
     linked  : "Team Repo. - Pull Request #5"
+    link    : "https://daum.net"
+  - desc    : "Reviewed commit of teammate"
+    linked  : "Team Repo. - comment for commit 8e74c28"
     link    : "https://daum.net"
   - desc    : "Took a rest"
     linked  :
@@ -26,6 +32,14 @@ projectwork:
     core    : true
   - desc    : "Tried to fix small problem"
     linked  : "Project Repo. - Pull Request #5 (rejected)"
+    link    : "https://naver.com"
+    core    : false 
+  - desc    : "Reported important error first"
+    linked  : "Project Repo. - Issue #12 (marked good_first_issue)"
+    link    : "https://naver.com"
+    core    : true 
+  - desc    : "Reported important error first"
+    linked  : "Project Repo. - Issue #12 (marked good_first_issue)"
     link    : "https://naver.com"
     core    : false 
   - desc    : "FreeRide"
