@@ -37,9 +37,9 @@ tags: Static_Page
 
 마크다운 코드 중 아래를 통해 yml파일을 지정해줍니다. assign할 변수 이름은 임의로 정하여도 상관없습니다.
 아래의 경우 `_d1` 에 `example.yml` 을 불러옵니다.
-```markdown {% raw %}
-<div>{%- assign _d1 = site.data.works.example-%}</div>
-{% endraw %}```
+```markdown 
+<div>{% raw %}{%- assign _d1 = site.data.works.example-%}{% endraw %}</div>
+```
 <div>{%- assign _d1 = site.data.works.example-%}</div>
 
 `example.yml`에 저장된 내용은 [Github 저장소 내부](https://github.com/20-1-SKKU-OSS/2020-1-OSS-2/blob/master/docs/_data/works/example.yml)를 확인해 주세요.
@@ -48,43 +48,43 @@ tags: Static_Page
 ## 사용
 
 이후 모든 기여 내역을 보는 것은 아래와 같이 합니다.
-```markdown {% raw %}
-<div>{%- include work-list.html userdata=_d1 -%}</div>
-{% endraw %}```
+```markdown 
+<div>{% raw %}{%- include work-list.html userdata=_d1 -%}{% endraw %}</div>
+```
 
 
 ### 모두 보기
 
-```markdown {% raw %}
-<div>{%- include work-list.html userdata=_d1 -%}</div>
-{% endraw %}```
+```markdown 
+<div>{% raw %}{%- include work-list.html userdata=_d1 -%}{% endraw %}</div>
+```
 
 <div>{%- include work-list.html userdata=_d1 -%}</div>
 
 
 ### 핵심 기여 내용만 보기
 
-```markdown {% raw %}
-<div>{%- include work-list.html userdata=_d1 only_core=true-%}</div>
-{% endraw %}```
+```markdown 
+<div>{% raw %}{%- include work-list.html userdata=_d1 only_core=true-%}{% endraw %}</div>
+```
 
 <div>{%- include work-list.html userdata=_d1 only_core=true -%}</div>
 
 
 ### 팀 기여 내용만 보기
 
-```markdown {% raw %}
-<div>{%- include work-list.html userdata=_d1 show_projects=false-%}</div>
-{% endraw %}```
+```markdown 
+<div>{% raw %}{%- include work-list.html userdata=_d1 show_projects=false-%}{% endraw %}</div>
+```
 
 <div>{%- include work-list.html userdata=_d1 show_projects=false-%}</div>
 
 
 ### 프로젝트 기여 내용만 보기
 
-```markdown {% raw %}
-<div>{%- include work-list.html userdata=_d1 show_teams=false-%}</div>
-{% endraw %}```
+```markdown 
+<div>{% raw %}{%- include work-list.html userdata=_d1 show_teams=false-%}{% endraw %}</div>
+```
 
 <div>{%- include work-list.html userdata=_d1 show_teams=false-%}</div>
 
@@ -98,13 +98,13 @@ tags: Static_Page
 
 요약 페이지는 본인이 핵심이라고 생각하는 작업내용만, id와 한글이름을 포함해 간단히 표시해줍니다.
 
-```markdown {% raw %}
-<div>{%- assign _summary_example = site.data.works.example-%}</div>
+```markdown 
+<div>{% raw %}{%- assign _summary_example = site.data.works.example-%}{% endraw %}</div>
 
-### {{ _summary_example.realnameKR }} ({{ _summary_example.name }})
+### {% raw %}{{ _summary_example.realnameKR }}{% endraw %} ({% raw %}{{ _summary_example.name }}{% endraw %})
 
-<div>{%- include work-list.html userdata=_summary_example only_core=true-%}</div>
-{% endraw %}```
+<div>{% raw %}{%- include work-list.html userdata=_summary_example only_core=true-%}{% endraw %}</div>
+```
 
 <div>{%- assign _summary_example = site.data.works.example-%}</div>
 
@@ -117,23 +117,23 @@ tags: Static_Page
 
 상세 페이지는 모두 보여주되 프로젝트 작업 내역과 팀 작업 내역을 구분해 보여줍니다.
 
-```markdown {% raw %}
-<div>{%- assign _detail_example = site.data.works.example-%}</div>
+```markdown 
+<div>{% raw %}{%- assign _detail_example = site.data.works.example-%}{% endraw %}</div>
 
-### {{ _detail_example.realnameKR }}
+### {% raw %}{{ _detail_example.realnameKR }}{% endraw %}
 
-GitHub ID: {{ _detail_example.name }}
+GitHub ID: {% raw %}{{ _detail_example.name }}{% endraw %}
 
-Real Name: {{ _detail_example.realnameKR }} ({{ _detail_example.realnameEN }})
+Real Name: {% raw %}{{ _detail_example.realnameKR }}{% endraw %} ({% raw %}{{ _detail_example.realnameEN }}{% endraw %})
 
 #### Works for team
 
-<div>{%- include work-list.html userdata=_detail_example show_projects=false-%}</div>
+<div>{% raw %}{%- include work-list.html userdata=_detail_example show_projects=false-%}{% endraw %}</div>
 
 
 #### Works for project
 
-<div>{%- include work-list.html userdata=_detail_example show_teams=false-%}</div>
+<div>{% raw %}{%- include work-list.html userdata=_detail_example show_teams=false-%}{% endraw %}</div>
 ```
 
 <div>{%- assign _detail_example = site.data.works.example-%}</div>
