@@ -4,8 +4,8 @@ realnameEN  : Doyeol Kim
 realnameKR  : 김도열
 teamwork:
   - desc    : "more-python-for-beginners 챕터 1 코드 수정 및 PR"
-    linked  : "팀 레포 PR 링크 : PR #6"
-    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/6
+    linked  : "팀 레포 PR 링크 : PR #10"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/10
   - desc    : "more-python-for-beginners 챕터 2 코드 수정 및 PR"
     linked  : "팀 레포 PR 링크 : PR #7"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/7
