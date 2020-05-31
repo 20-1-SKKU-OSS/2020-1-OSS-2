@@ -1,0 +1,13 @@
+name        : Dorika0203
+id          : Dorika0203
+realnameEN  : Doyeol Kim
+realnameKR  : 김도열
+teamwork:
+  - desc    : 
+    linked  :
+    link    :
+projectwork:
+  - desc    : "Code doesn't work in more-python-for-beginners/01-Formatting and Linting #62"
+    linked  : "Project Repo - Issue #62"
+    link    : https://github.com/microsoft/c9-python-getting-started/issues/62
+    core    : true
