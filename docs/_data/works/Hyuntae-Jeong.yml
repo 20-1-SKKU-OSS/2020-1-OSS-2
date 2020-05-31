@@ -3,11 +3,11 @@ id          : Hyuntae-Jeong
 realnameEN  : Hyuntae Jeong
 realnameKR  : 정현태
 teamwork:
-  - desc    : 
-    linked  :
-    link    :
+  - desc    : "Changed the file name to change order"
+    linked  : "Team Repo. - Pull Request #12"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/12"
 projectwork:
-  - desc    : 
-    linked  : 
-    link    : 
-    core    : 
+  - desc    : "Re-ordered the number of folders to start from 01 (Closed)"
+    linked  : "Project Repo. - Pull Request #60"
+    link    : "https://github.com/microsoft/c9-python-getting-started/pull/60"
+    core    : false
