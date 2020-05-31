@@ -3,11 +3,18 @@ id          : Dorika0203
 realnameEN  : Doyeol Kim
 realnameKR  : 김도열
 teamwork:
-  - desc    : 
-    linked  :
-    link    :
+  - desc    : "more-python-for-beginners 챕터 1 코드 수정 및 PR"
+    linked  : "팀 레포 PR 링크 : PR #6"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/6
+  - desc    : "more-python-for-beginners 챕터 2 코드 수정 및 PR"
+    linked  : "팀 레포 PR 링크 : PR #7"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/7
+  - desc    : "python-for-beginners 챕터 13 이름 수정 PR 내용 확인 및 merge"
+    linked  : "팀 레포 PR 링크 : PR #3"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/3
+    
 projectwork:
-  - desc    : "Code doesn't work in more-python-for-beginners/01-Formatting and Linting #62"
-    linked  : "Project Repo - Issue #62"
+  - desc    : "이슈생성: more-python-for-beginners 챕터 1 코드 오류"
+    linked  : "생성된 이슈 링크"
     link    : https://github.com/microsoft/c9-python-getting-started/issues/62
     core    : true
