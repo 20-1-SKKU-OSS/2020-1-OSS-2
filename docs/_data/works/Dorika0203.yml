@@ -3,13 +3,13 @@ id          : Dorika0203
 realnameEN  : Doyeol Kim
 realnameKR  : 김도열
 teamwork:
-  - desc : "Issue: more-python-for-beginners Chapter 1 code error"
-    linked  : "Issue Link"
-    link    : https://github.com/microsoft/c9-python-getting-started/issues/62
+  - desc : 
+    linked  : 
+    link    : 
     
 projectwork:
   - desc    : "Issue: more-python-for-beginners Chapter 1 code error"
-    linked  : "Issue Link"
+    linked  : "Project Issue Link #62"
     link    : https://github.com/microsoft/c9-python-getting-started/issues/62
     core    : true
   - desc    : "more-python-for-beginners Chapter 1 code fix and PR"
@@ -19,4 +19,32 @@ projectwork:
   - desc    : "more-python-for-beginners Chapter 2 code fix and PR"
     linked  : "Team Repository PR #7"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/7
-  - core    : true
+    core    : true
+  - desc    : "Unifying indentation of more-python-for-beginners Chapter 1~3"
+    linked  : "Team Repository PR #30"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/30
+    core    : true
+  - desc    : "Unifying indentation of more-python-for-beginners Chapter 4~6"
+    linked  : "Team Repository PR #33"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/33
+    core    : true
+  - desc    : "Unifying indentation of more-python-for-beginners Chapter 7~9"
+    linked  : "Team Repository PR #36"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/36
+    core    : true
+  - desc    : "Issue: Unifying indentation of more-python-for-beginners Chapter 1~3"
+    linked  : "Team Issue link #26"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/26
+    core    : false
+  - desc    : "Issue: Unifying indentation of more-python-for-beginners Chapter 4~6"
+    linked  : "Team Issue link #32"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/32
+    core    : false
+  - desc    : "Issue: Unifying indentation of more-python-for-beginners Chapter 7~9"
+    linked  : "Team Issue link #34"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/34
+    core    : false
+  - desc    : "Issue: Korean Translating"
+    linked  : "Tema Issue Link #27"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/27
+    core    : true
