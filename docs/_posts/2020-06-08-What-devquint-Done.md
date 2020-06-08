@@ -9,9 +9,8 @@ tags: Role Python_Getting_Started
 
 # {{ _detail.realnameKR }}
 
-GitHub ID: {{ _detail.name }}
-
-Name: {{ _detail.realnameKR }} ({{ _detail.realnameEN }})
+<div>{%- assign _a1 = site.data.authors["devquint"] -%}</div>
+<div>{%- include article/footer/author-profile.html author=_a1 -%}</div>
 
 ## Works for team
 
