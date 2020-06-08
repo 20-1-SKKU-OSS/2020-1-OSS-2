@@ -88,6 +88,14 @@ tags: Static_Page
 
 <div>{%- include work-list.html userdata=_d1 show_teams=false-%}</div>
 
+### 주요 기여 내용 강조 해제
+
+```markdown 
+<div>{% raw %}{%- include work-list.html userdata=_d1 no_bold=true show_teams=false-%}{% endraw %}</div>
+```
+
+<div>{%- include work-list.html userdata=_d1 no_bold=true show_teams=false-%}</div>
+
 
 # 실제 적용 예시
 
