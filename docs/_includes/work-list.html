@@ -74,8 +74,8 @@
 {% if show_projects %}
 {% for work in user.projectwork %}
   {% if noncore_allowed == true or work.core == true %}
-  <li> {% if work.core == true and noncore_allowed == true and no_bold == true %}<b>{% endif %}
-    {{ work.desc }}{% if work.linked %}, <a href="{{ work.link }}">{{ work.linked }}</a>{% endif %} {% if work.core == true and noncore_allowed == true and no_bold == true %}</b>{% endif %}
+  <li> {% if work.core == true and noncore_allowed == true and no_bold == false %}<b>{% endif %}
+    {{ work.desc }}{% if work.linked %}, <a href="{{ work.link }}">{{ work.linked }}</a>{% endif %} {% if work.core == true and noncore_allowed == true and no_bold == false %}</b>{% endif %}
   </li>
   {% endif %}
 {% endfor %}
