@@ -6,11 +6,50 @@ teamwork:
   - desc    : "Team Leader"
     linked  :
     link    :
+  - desc    : "Managed overall flow about project like report aggregation, progress & schedule management, and etc"
+    linked  : 
+    link    : 
+  - desc    : "Set up most of the static page"
+    linked  : 
+    link    : 
+  - desc    : "Posted about individual works planning"
+    linked  : "static page post(Korean)"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Individual-Role.html"
   - desc    : "Made html and schema for individual works"
     linked  : "static page post(Korean)"
     link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/28/Made-Work-Template.html"
+  - desc    : "Made html and schema for individual works"
+    linked  : "static page post(Korean)"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/28/Made-Work-Template.html"
+  - desc    : "Helped making readme.md of static page repo."
+    linked  : "README.md"
+    link    : "https://github.com/20-1-SKKU-OSS/2020-1-OSS-2/blob/master/README.md"
 projectwork:
-  - desc    : "Not Yet"
+  - desc    : "Managed labeling, assigning, and overall flow of issues and Pull Requests in team repo."
     linked  : 
     link    : 
+    core    : true
+  - desc    : "Reviewed most of the pull requests in team repo."
+    linked  : "list"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3Adevquint+"
+    core    : true
+  - desc    : "First pointed out about indentation consistency issue"
+    linked  : "Team Repo. Issue #11"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/11"
+    core    : true
+  - desc    : "Unified indent to 4 spaces, even-more-python-... chapter 1-5"
+    linked  : "Team Repo. PR #22"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/22"
+    core    : false
+  - desc    : "Unified indent to 4 spaces, even-more-python-... chapter 11-15"
+    linked  : "Team Repo. PR #48"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/48"
+    core    : false
+  - desc    : "Reviewed adding example using decorator"
+    linked  : "Team Repo. PR #8"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/8"
+    core    : true
+  - desc    : "Augmented decorator example"
+    linked  : "Team Repo. PR #24"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/24"
     core    : false
