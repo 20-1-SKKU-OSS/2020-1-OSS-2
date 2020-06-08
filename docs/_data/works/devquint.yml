@@ -6,7 +6,7 @@ teamwork:
   - desc    : "Team Leader"
     linked  :
     link    :
-  - desc    : "Managed overall flow about project like report aggregation, progress & schedule management, and etc"
+  - desc    : "Managed overall flow about project like report aggregation, progress & schedule management, and etc."
     linked  : 
     link    : 
   - desc    : "Set up most of the static page"
@@ -15,9 +15,6 @@ teamwork:
   - desc    : "Posted about individual works planning"
     linked  : "static page post(Korean)"
     link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Individual-Role.html"
-  - desc    : "Made html and schema for individual works"
-    linked  : "static page post(Korean)"
-    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/28/Made-Work-Template.html"
   - desc    : "Made html and schema for individual works"
     linked  : "static page post(Korean)"
     link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/28/Made-Work-Template.html"
@@ -30,7 +27,7 @@ projectwork:
     link    : 
     core    : true
   - desc    : "Reviewed most of the pull requests in team repo."
-    linked  : "list"
+    linked  : "See List"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3Adevquint+"
     core    : true
   - desc    : "First pointed out about indentation consistency issue"
