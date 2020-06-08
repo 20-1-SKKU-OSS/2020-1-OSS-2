@@ -3,18 +3,20 @@ id          : Dorika0203
 realnameEN  : Doyeol Kim
 realnameKR  : 김도열
 teamwork:
-  - desc    : "more-python-for-beginners 챕터 1 코드 수정 및 PR"
-    linked  : "팀 레포 PR 링크 : PR #10"
-    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/10
-  - desc    : "more-python-for-beginners 챕터 2 코드 수정 및 PR"
-    linked  : "팀 레포 PR 링크 : PR #7"
-    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/7
-  - desc    : "python-for-beginners 챕터 13 이름 수정 PR 내용 확인 및 merge"
-    linked  : "팀 레포 PR 링크 : PR #3"
-    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/3
+  - desc : "Issue: more-python-for-beginners Chapter 1 code error"
+    linked  : "Issue Link"
+    link    : https://github.com/microsoft/c9-python-getting-started/issues/62
     
 projectwork:
-  - desc    : "이슈생성: more-python-for-beginners 챕터 1 코드 오류"
-    linked  : "생성된 이슈 링크"
+  - desc    : "Issue: more-python-for-beginners Chapter 1 code error"
+    linked  : "Issue Link"
     link    : https://github.com/microsoft/c9-python-getting-started/issues/62
     core    : true
+  - desc    : "more-python-for-beginners Chapter 1 code fix and PR"
+    linked  : "Team Repository PR #10"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/10
+    core    : true
+  - desc    : "more-python-for-beginners Chapter 2 code fix and PR"
+    linked  : "Team Repository PR #7"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/7
+  - core    : true
