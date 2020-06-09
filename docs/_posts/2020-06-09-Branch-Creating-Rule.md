@@ -7,7 +7,7 @@ tags: Python_Getting_Started
 
 ### 브랜치 구분 계획
 
-#### 레벨별 폴더에 따른 상위 브랜치 3개
+#### [1] 레벨별 폴더에 따른 상위 브랜치 3개
 
 
 현재 프로젝트에는 초급자, 중급자, 고급자용으로 공부할 단원에 대한 코드들이 3개의 폴더로 나누어져 정리되어 있습니다.<br/>폴더명은 각각 python-for-beginners, more-python-for-beginners, even-more-python-for-beginners 입니다.<br/>저희 팀은 프로젝트를 진행하면서, 이 폴더들을 pfb, mpfb, empfb로 줄여서 부르기로 했습니다.
@@ -19,7 +19,7 @@ tags: Python_Getting_Started
 - better-even-more-python-for-beginners
 
 
-#### 단원별 브랜치 생성
+#### [2] 단원별 브랜치 생성
 
 위에서 소개한 pfb, mpfb, empfb 브랜치에서, 폴더에 있는 각각의 단원들에 대한 수정을 진행하는 브랜치 생성 규칙은 다음과 같습니다.
 
@@ -40,7 +40,7 @@ better-python-for-beginners에서 분기하는 브랜치 better-09를 생성
 (로컬에서) git checkout -b better-09 origin/better-python-for-beginners
 ```
 
-#### 예외 경우 - indent unifying issue
+#### [3] 예외 경우 - indent unifying issue
 
 코드 수정을 하던 중 저희는 프로젝트 전반에 걸쳐 indent와 관련된 코드 에러가 빈번함을 발견했습니다.
 
