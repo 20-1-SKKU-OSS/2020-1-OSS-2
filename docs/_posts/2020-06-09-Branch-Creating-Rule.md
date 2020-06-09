@@ -18,6 +18,8 @@ tags: Python_Getting_Started
 - better-more-python-for-beginners
 - better-even-more-python-for-beginners
 
+
+
 #### 단원별 브랜치 생성
 
 위에서 소개한 pfb, mpfb, empb 브랜치에서, 폴더에 있는 각각의 단원들에 대한 수정을 진행하는 브랜치 생성 방법은 다음과 같다.
