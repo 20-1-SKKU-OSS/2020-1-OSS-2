@@ -3,19 +3,70 @@ id          : ChaeyeonSeo
 realnameEN  : Chaeyeon Seo
 realnameKR  : 서채연
 teamwork:
-  - desc    : 
-    linked  :
-    link    :
+  - desc    : "Write README.md of static page repo"
+    linked  : "README.md"
+    link    : https://github.com/20-1-SKKU-OSS/2020-1-OSS-2/blob/master/README.md
+  - desc    : "Posted Overview of the project"
+    linked  : "static page post(Korean)"
+    link    : https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Project-Introduction.html
 projectwork:
-  - desc    : "Add leading zero"
+  - desc    : "Add leading zero to Slides"
     linked  : "Project Repo - Pull Request #58"
     link    : https://github.com/microsoft/c9-python-getting-started/pull/58
+    core    : true
+  - desc    : "Fix typing error in file name"
+    linked  : "Project Repo - Pull Request #63"
+    link    : https://github.com/microsoft/c9-python-getting-started/pull/63
+    core    : true
+  - desc    : "Fix comments errors in more-python-for-beginners "
+    linked  : "Team Repo. - Pull Request #1"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/1
+    linked  : "Team Repo. - Pull Request #52"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/52
+    core    : true
+  - desc    : "Add comments in more-python-for-beginners"
+    linked  : "Team Repo. - Pull Request #2"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/2
+    linked  : "Team Repo. - Pull Request #5"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5
+    core    : true
+  - desc    : "Fix code errors in python-for-beginners"
+    linked  : "Team Repo. - Pull Request #4"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/4
+    core    : true
+  - desc    : "Add code examples in python-for-beginners"
+    linked  : "Team Repo. - Pull Request #8"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/8
+    core    : true
+  - desc    : "Fix typing errors in python-for-beginners"
+    linked  : "Team Repo. - Pull Request #13"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/13
+    core    : true
+  - desc    : "Add comments in python-for-beginners"
+    linked  : "Team Repo. - Pull Request #14"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/14
+    core    : true
+  - desc    : "Unified indent to 4 spaces, python-for-beginners chapter 11-13"
+    linked  : "Team Repo. - Pull Request #39"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/39
     core    : false
-  - desc    : "Reorder comment"
-    linked  : "Team Repo. - commit b24bbec5f808020d6f50e7ec465d4ddeaea65a46"
-    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/commit/b24bbec5f808020d6f50e7ec465d4ddeaea65a46
+  - desc    : "Unified indent to 4 spaces, python-for-beginners chapter 5-7"
+    linked  : "Team Repo. - Pull Request #51"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/51
+    core    : false
+  - desc    : "Issue: 4 Spaces Indentation issue"
+    linked  : "Team Repo. - Issues #15"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/15
     core    : true
-  - desc    : "Commited some thing"
-    linked  : "Team Repo. - commit 8e74c28"
-    link    : "https://team-repo/commit/8e74c28..."
-    core    : true
+  - desc    : "Issue: Unifying indentation of python-for-beginners Chapter 5-7"
+    linked  : "Team Issue link #35"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/35
+    core    : false
+  - desc    : "Issue: Unifying indentation of python-for-beginners Chapter 11-13"
+    linked  : "Team Issue link #37"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/37
+    core    : false
+  - desc    : "Reviewed pull requests in team repo."
+    linked  : "See List"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+reviewed-by%3AChaeyeonSeo
+    core    : false
