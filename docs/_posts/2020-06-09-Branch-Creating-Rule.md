@@ -27,8 +27,9 @@ tags: Python_Getting_Started
     + better-more-python-for-beginners에서 분기하는 브랜치 better-more-02를 생성
     
     + (로컬에서) git checkout -b better-more-02 origin/better-more-python-for-beginners
-  
-  
+    
+    
+    
 2. 예시: python-for-beginners의 09 - Handling multiple conditions(9단원)을 수정하는 경우
 
     + better-python-for-beginners에서 분기하는 브랜치 better-09를 생성
