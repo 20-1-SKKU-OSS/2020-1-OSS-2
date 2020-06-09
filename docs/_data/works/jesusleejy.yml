@@ -6,7 +6,7 @@ teamwork:
   - desc    : 
     linked  :
     link    :
- projectwork: 
+projectwork: 
   - desc    : "Reviewed pull requests in team repo."
     linked  : "See List"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3Ajesusleejy+"
@@ -43,4 +43,3 @@ teamwork:
     linked  : "Team Issue #44"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/44"
     core    : false
-    
