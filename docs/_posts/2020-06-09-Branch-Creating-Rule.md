@@ -22,8 +22,15 @@ tags: Python_Getting_Started
 
 위에서 소개한 pfb, mpfb, empb 브랜치에서, 폴더에 있는 각각의 단원들에 대한 수정을 진행하는 브랜치 생성 방법은 다음과 같다.
 
-##### 예시: more-python-for-beginners의 02 - Lambdas(2단원)을 수정하는 경우
+1. 예시: more-python-for-beginners의 02 - Lambdas(2단원)을 수정하는 경우
 
-1. more-python-for-beginners에서 분기하는 브랜치 better-more-02를 생성
-   + (로컬에서) git checkout -b better-more-02 origin/more-python-for-beginners
-2. 브랜치에서 수정 작업을 진행 후, push한다.
+  + better-more-python-for-beginners에서 분기하는 브랜치 better-more-02를 생성
+  
+  + (로컬에서) git checkout -b better-more-02 origin/better-more-python-for-beginners
+  
+2. 예시: python-for-beginners의 09 - Handling multiple conditions(9단원)을 수정하는 경우
+
+  + better-python-for-beginners에서 분기하는 브랜치 better-09를 생성
+  
+  + (로컬에서) git checkout -b better-09 origin/better-python-for-beginners
+  
