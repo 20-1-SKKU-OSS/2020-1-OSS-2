@@ -55,7 +55,7 @@
   
 - 서채연
   - 학번: 2019312913
-  - 전공: 
+  - 전공: 소프트웨어학과 
   - GitHub ID: [ChaeyeonSeo](https://github.com/ChaeyeonSeo)
 
 - 이종윤 
@@ -66,7 +66,7 @@
 - 정현태
   - 학번: 
   - 전공: 
-  - GitHub ID:  
+  - GitHub ID: [Hyuntae Jeong](https://github.com/Hyuntae-Jeong) 
 
 ## <div id="HowToDo">활동 방법</div>
 
@@ -79,16 +79,16 @@ TODO- 요약 서술
 개인별 핵심 기여 내역은 정적 페이지 내의 [소개 페이지](https://20-1-skku-oss.github.io/2020-1-OSS-2/about.html)에, 개인별 세부 기여 내역은 각자의 정적 페이지 포스트에 작성되어 있습니다. 각 항목별 링크를 확인해 주세요.
 
 - 강성민
-  - [정적 페이지 포스트]()
+  - [정적 페이지 포스트](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/08/What-devquint-Done.html)
   
 - 김도열
-  - [정적 페이지 포스트]()
+  - [정적 페이지 포스트](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Dorika0203-Done.html)
   
 - 서채연
-  - [정적 페이지 포스트]()
+  - [정적 페이지 포스트](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-ChaeyeonSeo-Done.html)
   
 - 이종윤
-  - [정적 페이지 포스트]()
+  - [정적 페이지 포스트](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-jesusleejy-Done.html)
   
 - 정현태
-  - [정적 페이지 포스트]()
+  - [정적 페이지 포스트](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Hyuntae-Jeong-Done.html)
