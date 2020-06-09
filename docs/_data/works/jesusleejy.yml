@@ -1,0 +1,46 @@
+name        : jesusleejy
+id          : jesusleejy
+realnameEN  : JongYoon Lee
+realnameKR  : 이종윤
+teamwork:
+  - desc    : 
+    linked  :
+    link    :
+ projectwork: 
+  - desc    : "Reviewed pull requests in team repo."
+    linked  : "See List"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3Ajesusleejy+"
+    core    : true
+  - desc    : "Unifying indentation: python-for-beginners/chapter 2-4"
+    linked  : "Team Repository PR #28"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/28"
+    core    : true
+  - desc    : "Unifying indentation: python-for-beginners/chapter 8-10"
+    linked  : "Team Repository PR #31"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/31"
+    core    : true
+  - desc    : "Unifying indentation: even-more-python-for-beginners/chapter 6-10"
+    linked  : "Team Repository PR #46"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/46"
+    core    : true
+  - desc    : "Fix a typing error of comments in pfb1-10"
+    linked  : "Team Repository PR #49"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/49"
+    core    : true
+  - desc    : "Fix a typing error of comments in pfb11-18"
+    linked  : "Team Repository PR #53"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/53"
+    core    : true
+  - desc    : "ISSUE : Unifying indentation: python-for-beginners/chapter 2-4"
+    linked  : "Team Issue #25"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/25"
+    core    : false
+  - desc    : "ISSUE : Unifying indentation: python-for-beginners/chapter 8-10"
+    linked  : "Team Issue #29"
+    link    : "hhttps://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/29"
+    core    : false
+  - desc    : "ISSUE : Unifying indentation: even-more-python-for-beginners/chapter 6-10"
+    linked  : "Team Issue #44"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/44"
+    core    : false
+    
