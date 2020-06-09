@@ -5,7 +5,7 @@ show_author_profile: true
 tags: Role Python_Getting_Started
 ---
 
-<div>{%- assign _detail = site.data.works.jesusleejy-%}</div>
+<div>{%- assign _detail = site.data.works.jesusleejy -%}</div>
 
 # {{ _detail.realnameKR }}
 
