@@ -25,5 +25,5 @@ tags: Python_Getting_Started
 ##### 예시: more-python-for-beginners의 02 - Lambdas(2단원)을 수정하는 경우
 
 1. more-python-for-beginners에서 분기하는 브랜치 better-more-02를 생성
- + (로컬에서) git checkout -b better-more-02 origin/more-python-for-beginners
+   + (로컬에서) git checkout -b better-more-02 origin/more-python-for-beginners
 2. 브랜치에서 수정 작업을 진행 후, push한다.
