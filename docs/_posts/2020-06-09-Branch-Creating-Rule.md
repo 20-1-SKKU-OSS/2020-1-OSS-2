@@ -47,14 +47,15 @@ better-python-for-beginners에서 분기하는 브랜치 better-09를 생성
 [1차 합의점 달성 및 브랜치 생성 논의](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/15)<br/>
 [최종 Issue - indentation 수정 방법 공지 및 역할분담](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/20)<br/>
 
-Issue를 통해 팀원들 간 전체적인 project에서 어떻게 indentation을 수정할지 논의했습니다.<br/>
+Issue를 통해 팀원들 간 전체적인 project에서 어떻게 indentation을 수정할지 논의했습니다.
+
 그 과정에서 결정된 브랜체 생성 규칙은 다음과 같습니다.
 
 1. 3개의 폴더에 따른 indent 수정용 브랜치를 생성
 
-- indent-pfb
-- indent-mpfb
-- indent-empfb
+  - indent-pfb
+  - indent-mpfb
+  - indent-empfb
 
 2. 자신이 수정할 부분에 대한 Issue를 생성한다.
 
