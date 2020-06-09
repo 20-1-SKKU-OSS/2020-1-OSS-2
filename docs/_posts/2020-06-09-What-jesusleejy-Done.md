@@ -1,6 +1,6 @@
 ---
 title: 개인별 기여 내역 - 이종윤 
-author:
+author: jesusleejy
 show_author_profile: true
 tags: Role Python_Getting_Started
 ---

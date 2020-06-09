@@ -1,6 +1,6 @@
 ---
 title: 개인별 기여 내역 - 서채연
-author:
+author: ChaeyeonSeo
 show_author_profile: true
 tags: Role Python_Getting_Started
 ---
