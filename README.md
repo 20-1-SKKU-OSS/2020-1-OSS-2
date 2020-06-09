@@ -59,9 +59,9 @@
   - GitHub ID: [ChaeyeonSeo](https://github.com/ChaeyeonSeo)
 
 - 이종윤 
-  - 학번: 
+  - 학번: 2015311184
   - 전공: 
-  - GitHub ID:  
+  - GitHub ID: [jesusleejy](https://github.com/jesusleejy) 
 
 - 정현태
   - 학번: 
