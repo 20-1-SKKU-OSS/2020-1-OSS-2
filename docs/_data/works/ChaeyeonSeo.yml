@@ -21,18 +21,18 @@ projectwork:
   - desc    : "Fix comments errors in more-python-for-beginners "
     linked  : "Team Repo. - Pull Request #1"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/1
-    linked  : "Team Repo. - Pull Request #52"
-    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/52
     core    : true
   - desc    : "Add comments in more-python-for-beginners"
     linked  : "Team Repo. - Pull Request #2"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/2
-    linked  : "Team Repo. - Pull Request #5"
-    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5
     core    : true
   - desc    : "Fix code errors in python-for-beginners"
     linked  : "Team Repo. - Pull Request #4"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/4
+    core    : true
+  - desc    : "Add comments in more-python-for-beginners"
+    linked  : "Team Repo. - Pull Request #5"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5
     core    : true
   - desc    : "Add code examples in python-for-beginners"
     linked  : "Team Repo. - Pull Request #8"
@@ -54,6 +54,10 @@ projectwork:
     linked  : "Team Repo. - Pull Request #51"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/51
     core    : false
+  - desc    : "Fix comments errors in more-python-for-beginners "
+    linked  : "Team Repo. - Pull Request #52"
+    link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/52
+    core    : true
   - desc    : "Issue: 4 Spaces Indentation issue"
     linked  : "Team Repo. - Issues #15"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/15
