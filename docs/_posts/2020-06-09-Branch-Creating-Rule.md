@@ -25,18 +25,21 @@ tags: Python_Getting_Started
 
 ##### 예시 1: more-python-for-beginners의 02 - Lambdas(2단원)을 수정하는 경우
 
-    better-more-python-for-beginners에서 분기하는 브랜치 better-more-02를 생성
+```
+better-more-python-for-beginners에서 분기하는 브랜치 better-more-02를 생성
     
-    (로컬에서) git checkout -b better-more-02 origin/better-more-python-for-beginners
-    
+(로컬에서) git checkout -b better-more-02 origin/better-more-python-for-beginners
+```
     
     
 ##### 예시 2: python-for-beginners의 09 - Handling multiple conditions(9단원)을 수정하는 경우
 
-    better-python-for-beginners에서 분기하는 브랜치 better-09를 생성
+```
+better-python-for-beginners에서 분기하는 브랜치 better-09를 생성
     
-    (로컬에서) git checkout -b better-09 origin/better-python-for-beginners
-    
+(로컬에서) git checkout -b better-09 origin/better-python-for-beginners
+```
+
 #### 예외 경우 - indent unifying issue
 
 코드 수정을 하던 중 저희는 프로젝트 전반에 걸쳐 indent와 관련된 코드 에러가 빈번함을 발견했습니다.<br/>
@@ -55,19 +58,19 @@ Issue를 통해 팀원들 간 전체적인 project에서 어떻게 indentation�
 
 2. 자신이 수정할 부분에 대한 Issue를 생성한다. 예시 : more-python-for-beginners의 1~3단원의 indent를 수정하고자 하는 경우
 
-``` 
-Issue 제목: Unifying indentation: more-python-for-beginners chatper 1-3
+
+    Issue 제목: Unifying indentation: more-python-for-beginners chatper 1-3
     
-[링크](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/26)
-```
+    [링크](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/26)
+
 
 3. 해당 이슈 번호 (위의 예시의 경우는 26번임)를 기반으로 브랜치를 생성한다.
 
 ```
-    새로 만들어질 브랜치 명: Issue-26
+새로 만들어질 브랜치 명: Issue-26
     
-    분기할 브랜치: more-python-for-beginners의 단원들을 수정하므로 indent-mpfb를 분기할 브랜치로 선택
+분기할 브랜치: more-python-for-beginners의 단원들을 수정하므로 indent-mpfb를 분기할 브랜치로 선택
     
-    (로컬에서) git checkout -b Issue-26 origin/indent-mpfb
+(로컬에서) git checkout -b Issue-26 origin/indent-mpfb
 ```   
     
