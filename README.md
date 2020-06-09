@@ -42,6 +42,7 @@
 ### 팀장  
 - 강성민 
   - 학번: 2018311406
+  - 전공: 소프트웨어학과 원전공
   - GitHub ID: [devquint](https://github.com/devquint)
   
 ### 팀원  
@@ -49,18 +50,22 @@
 
 - 김도열 
   - 학번: 2017311725
+  - 전공: 
   - GitHub ID: [Dorika0203](https://github.com/Dorika0203)
   
 - 서채연
   - 학번: 2019312913
+  - 전공: 
   - GitHub ID: [ChaeyeonSeo](https://github.com/ChaeyeonSeo)
 
 - 이종윤 
-  - 학번:  
+  - 학번: 
+  - 전공: 
   - GitHub ID:  
 
 - 정현태
-  - 학번:  
+  - 학번: 
+  - 전공: 
   - GitHub ID:  
 
 ## <div id="HowToDo">활동 방법</div>
