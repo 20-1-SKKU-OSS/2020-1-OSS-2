@@ -58,10 +58,9 @@ Issue를 통해 팀원들 간 전체적인 project에서 어떻게 indentation�
 
 2. 자신이 수정할 부분에 대한 Issue를 생성한다.
 
-예시 : more-python-for-beginners의 1~3단원의 indent를 수정하고자 하는 경우
-
- + Issue 제목: Unifying indentation: more-python-for-beginners chatper 1-3
- + [링크](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/26)
+ + 예시 : more-python-for-beginners의 1~3단원의 indent를 수정하고자 하는 경우
+  + Issue 제목: Unifying indentation: more-python-for-beginners chatper 1-3
+  + [링크](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/26)
 
 
 3. 해당 이슈 번호 (위의 예시의 경우는 26번임)를 기반으로 브랜치를 생성한다.
