@@ -12,6 +12,9 @@ tags: Role Python_Getting_Started
 <div>{%- assign _a1 = site.data.authors["devquint"] -%}</div>
 <div>{%- include article/footer/author-profile.html author=_a1 -%}</div>
 
+- 학번: 2018311406
+- 학과: 소프트웨어학과 원전공
+
 ## Works for team
 
 <div>{%- include work-list.html userdata=_detail show_projects=false-%}</div>
