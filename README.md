@@ -48,8 +48,8 @@
 가나다 순으로 서술하였습니다.
 
 - 김도열 
-  - 학번:  
-  - GitHub ID:  
+  - 학번: 2017311725
+  - GitHub ID: [Dorika0203](https://github.com/Dorika0203)
   
 - 서채연
   - 학번: 2019312913
