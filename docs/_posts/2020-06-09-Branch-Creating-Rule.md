@@ -53,9 +53,7 @@ Issue를 통해 팀원들 간 전체적인 project에서 어떻게 indentation�
 - indent-mpfb
 - indent-empfb
 
-2. 자신이 수정할 부분에 대한 Issue를 생성한다.
-
-    예시 : more-python-for-beginners의 1~3단원의 indent를 수정하고자 하는 경우
+2. 자신이 수정할 부분에 대한 Issue를 생성한다. 예시 : more-python-for-beginners의 1~3단원의 indent를 수정하고자 하는 경우
     
     Issue 제목: Unifying indentation: more-python-for-beginners chatper 1-3
     
