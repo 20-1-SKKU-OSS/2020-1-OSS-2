@@ -3,9 +3,12 @@ id          : jesusleejy
 realnameEN  : JongYoon Lee
 realnameKR  : 이종윤
 teamwork:
-  - desc    : 
-    linked  :
-    link    :
+  - desc    : "Summarize Microsoft Open Source Code of Conduct"
+    linked  : "static page post(Korean)
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Code-of-Conduct.html"
+  - desc    : "Organize the progress of the Pull Request and Code Review"
+    linked  : "static page post(Korean)"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/PR-and-Code-Review-Progress.html"
 projectwork: 
   - desc    : "Reviewed pull requests in team repo."
     linked  : "See List"
