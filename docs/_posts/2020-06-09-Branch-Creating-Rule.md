@@ -42,7 +42,8 @@ better-python-for-beginners에서 분기하는 브랜치 better-09를 생성
 
 #### 예외 경우 - indent unifying issue
 
-코드 수정을 하던 중 저희는 프로젝트 전반에 걸쳐 indent와 관련된 코드 에러가 빈번함을 발견했습니다.<br/>
+코드 수정을 하던 중 저희는 프로젝트 전반에 걸쳐 indent와 관련된 코드 에러가 빈번함을 발견했습니다.
+
 [초기에 생성되었던 Issue](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/11)<br/>
 [1차 합의점 달성 및 브랜치 생성 논의](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/15)<br/>
 [최종 Issue - indentation 수정 방법 공지 및 역할분담](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/20)<br/>
