@@ -3,11 +3,44 @@ id          : Hyuntae-Jeong
 realnameEN  : Hyuntae Jeong
 realnameKR  : 정현태
 teamwork:
-  - desc    : "Changed the file name to change order"
-    linked  : "Team Repo. - Pull Request #12"
-    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/12"
+  - desc    : 
+    linked  : 
+    link    : 
 projectwork:
   - desc    : "Re-ordered the number of folders to start from 01 (Closed)"
     linked  : "Project Repo. - Pull Request #60"
     link    : "https://github.com/microsoft/c9-python-getting-started/pull/60"
     core    : false
+  - desc    : "Changed the file name to change order (Invalid)"
+    linked  : "Team Repo. - Pull Request #12"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/12"
+    core    : false
+  - desc    : "Changed folder name 'Slides' to '00 - Slides' in python-for-beginners"
+    linked  : "Team Repo. - Pull Request #18"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/18"
+    core    : true
+  - desc    : "Changed folder name 'Slides' to '00 - Slides' in more-python-for-beginners (Closed)"
+    linked  : "Team Repo. - Pull Request #19"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/19"
+    core    : false
+  - desc    : "Unifying indentation: python-for-beginners chapter 14-16"
+    linked  : "Team Issue. - Issue #40"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/40"
+    core    : true    
+  - desc    : "Unifying indentation: python-for-beginners/chapter 14-16"
+    linked  : "Team Repo. - Pull Request #41"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/41"
+    core    : true    
+  - desc    : "Unifying indentation: python-for-beginners chapter 17-18"
+    linked  : "Team Issue. - Issue #42"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/42"
+    core    : true    
+  - desc    : "Unifying indentation: python-for-beginners/chapter 17-18"
+    linked  : "Team Repo. - Pull Request #43"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/43"
+    core    : true  
+  - desc    : "Changed folder name "Slides" to "00 - Slides" in better-more-python-for-beginners"
+    linked  : "Team Repo. - Pull Request #47"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/47"
+    core    : true
+  
