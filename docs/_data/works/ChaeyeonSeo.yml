@@ -25,7 +25,7 @@ projectwork:
   - desc    : "Add comments in more-python-for-beginners"
     linked  : "Team Repo. - Pull Request #2"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/2
-    core    : true
+    core    : false
   - desc    : "Fix code errors in python-for-beginners"
     linked  : "Team Repo. - Pull Request #4"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/4
@@ -33,7 +33,7 @@ projectwork:
   - desc    : "Add comments in more-python-for-beginners"
     linked  : "Team Repo. - Pull Request #5"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5
-    core    : true
+    core    : false
   - desc    : "Add code examples in python-for-beginners"
     linked  : "Team Repo. - Pull Request #8"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/8
@@ -45,7 +45,7 @@ projectwork:
   - desc    : "Add comments in python-for-beginners"
     linked  : "Team Repo. - Pull Request #14"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/14
-    core    : true
+    core    : false
   - desc    : "Unified indent to 4 spaces, python-for-beginners chapter 11-13"
     linked  : "Team Repo. - Pull Request #39"
     link    : https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/39
