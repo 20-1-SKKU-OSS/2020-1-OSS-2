@@ -25,8 +25,19 @@ titles:
   # @end locale config
 key: page-about
 ---
+# What we did
 
-## Theme
+We worked various way like unify indent, compensate example, fix typo, and so on.
+
+Below are the individual contribution of the project, team leader comes first and other member's subsequnce is 가나다순(alphabetical order).
+
+This only listed the key contributions, and you can check all of them by clicking names or the link below.
+
+<div>{%- assign _summary_d1 = site.data.works.example-%}</div>
+## [{{ _summary_d1.realnameEN }} ({{ _summary_d1.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/08/What-devquint-Done.html) `Team Leader`{:.info}
+<div>{%- include work-list.html userdata=_summary_d1 only_core=true-%}</div>
+
+# Theme
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 - We used [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)!
 
