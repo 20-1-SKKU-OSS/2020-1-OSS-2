@@ -32,7 +32,7 @@ projectwork:
   - desc    : "Unifying indentation: python-for-beginners chapter 14-16"
     linked  : "Team Issue. - Issue #40"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/40"
-    core    : true    
+    core    : false    
   - desc    : "Unifying indentation: python-for-beginners/chapter 14-16"
     linked  : "Team Repo. - Pull Request #41"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/41"
@@ -40,7 +40,7 @@ projectwork:
   - desc    : "Unifying indentation: python-for-beginners chapter 17-18"
     linked  : "Team Issue. - Issue #42"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/42"
-    core    : true    
+    core    : false    
   - desc    : "Unifying indentation: python-for-beginners/chapter 17-18"
     linked  : "Team Repo. - Pull Request #43"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/43"
@@ -60,8 +60,8 @@ projectwork:
   - desc    : "Added additional comment about dictionary on 'Add comment #14' PR"
     linked  : "Team Repo. - Pull Request #14"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/14"
-    core    : true
+    core    : false
   - desc    : "Added comma at format_date.py, get_current_date.py on PR #49"
     linked  : "Team Repo. - Pull Request #49"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/49"
-    core    : true
+    core    : false
