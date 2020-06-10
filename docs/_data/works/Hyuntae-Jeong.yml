@@ -9,6 +9,9 @@ teamwork:
   - desc    : "Made a project contribute plan"
     linked  : "static page post(korean)"
     link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Project-Contribute-Plan.html"
+  - desc    : "Summary of ndent related issues"
+    linked  : "static page post(korean)"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/10/Indent-Issues.html"
 projectwork:
   - desc    : "Re-ordered the number of folders to start from 01 (Closed)"
     linked  : "Project Repo. - Pull Request #60"
