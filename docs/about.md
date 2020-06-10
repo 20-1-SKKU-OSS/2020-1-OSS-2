@@ -36,6 +36,12 @@ This only listed the key contributions, and you can check all of them by clickin
 <div>{%- assign _summary_d1 = site.data.works.devquint -%}</div>
 ## [{{ _summary_d1.realnameEN }} ({{ _summary_d1.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/08/What-devquint-Done.html) `Team Leader`{:.info}
 <div>{%- include work-list.html userdata=_summary_d1 only_core=true -%}</div>
+[See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/08/What-devquint-Done.html)
+
+<div>{%- assign _summary_d2 = site.data.works.Dorika0203 -%}</div>
+## [{{ _summary_d2.realnameEN }} ({{ _summary_d2.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Dorika0203-Done.html)
+<div>{%- include work-list.html userdata=_summary_d2 only_core=true -%}</div>
+[See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Dorika0203-Done.html)
 
 # Theme
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
