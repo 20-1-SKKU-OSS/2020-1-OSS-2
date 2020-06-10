@@ -3,12 +3,12 @@ id          : ChaeyeonSeo
 realnameEN  : Chaeyeon Seo
 realnameKR  : 서채연
 teamwork:
+  - desc    : "Make an Overview of the project and post"
+    linked  : "static page post(Korean)"
+    link    : https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Project-Introduction.html
   - desc    : "Write README.md of static page repo"
     linked  : "README.md"
     link    : https://github.com/20-1-SKKU-OSS/2020-1-OSS-2/blob/master/README.md
-  - desc    : "Posted Overview of the project"
-    linked  : "static page post(Korean)"
-    link    : https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Project-Introduction.html
 projectwork:
   - desc    : "Add leading zero to Slides"
     linked  : "Project Repo - Pull Request #58"
