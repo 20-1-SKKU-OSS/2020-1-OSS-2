@@ -25,7 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-# What we did
+# What We Did
 
 We worked various way like unify indent, compensate example, fix typo, and so on.
 
@@ -35,26 +35,36 @@ This only listed the key contributions, and you can check all of them by clickin
 
 <div>{%- assign _summary_d1 = site.data.works.devquint -%}</div>
 ## [{{ _summary_d1.realnameEN }} ({{ _summary_d1.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/08/What-devquint-Done.html) `Team Leader`{:.info}
+<div>{%- assign _a1 = site.data.authors["devquint"] -%}</div>
+<div>{%- include article/footer/author-profile.html author=_a1 -%}</div>
 <div>{%- include work-list.html userdata=_summary_d1 only_core=true -%}</div>
 [See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/08/What-devquint-Done.html)
 
 <div>{%- assign _summary_d2 = site.data.works.Dorika0203 -%}</div>
 ## [{{ _summary_d2.realnameEN }} ({{ _summary_d2.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Dorika0203-Done.html)
+<div>{%- assign _a2 = site.data.authors["Dorika0203"] -%}</div>
+<div>{%- include article/footer/author-profile.html author=_a2 -%}</div>
 <div>{%- include work-list.html userdata=_summary_d2 only_core=true -%}</div>
 [See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Dorika0203-Done.html)
 
 <div>{%- assign _summary_d3 = site.data.works.ChaeyeonSeo -%}</div>
 ## [{{ _summary_d3.realnameEN }} ({{ _summary_d3.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-ChaeyeonSeo-Done.html)
+<div>{%- assign _a3 = site.data.authors["ChaeyeonSeo"] -%}</div>
+<div>{%- include article/footer/author-profile.html author=_a3 -%}</div>
 <div>{%- include work-list.html userdata=_summary_d3 only_core=true -%}</div>
 [See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-ChaeyeonSeo-Done.html)
 
 <div>{%- assign _summary_d4 = site.data.works.jesusleejy -%}</div>
 ## [{{ _summary_d4.realnameEN }} ({{ _summary_d4.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-jesusleejy-Done.html)
+<div>{%- assign _a4 = site.data.authors["jesusleejy"] -%}</div>
+<div>{%- include article/footer/author-profile.html author=_a4 -%}</div>
 <div>{%- include work-list.html userdata=_summary_d4 only_core=true -%}</div>
 [See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-jesusleejy-Done.html)
 
 <div>{%- assign _summary_d5 = site.data.works.Hyuntae-Jeong -%}</div>
 ## [{{ _summary_d5.realnameEN }} ({{ _summary_d5.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Hyuntae-Jeong-Done.html)
+<div>{%- assign _a5 = site.data.authors["Hyuntae-Jeong"] -%}</div>
+<div>{%- include article/footer/author-profile.html author=_a5 -%}</div>
 <div>{%- include work-list.html userdata=_summary_d5 only_core=true -%}</div>
 [See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Hyuntae-Jeong-Done.html)
 
