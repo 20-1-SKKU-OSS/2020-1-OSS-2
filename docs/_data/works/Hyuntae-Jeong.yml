@@ -39,7 +39,7 @@ projectwork:
     linked  : "Team Repo. - Pull Request #43"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/43"
     core    : true  
-  - desc    : "Changed folder name "Slides" to "00 - Slides" in better-more-python-for-beginners"
+  - desc    : "Changed folder name 'Slides' to '00 - Slides' in better-more-python-for-beginners"
     linked  : "Team Repo. - Pull Request #47"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/47"
     core    : true
