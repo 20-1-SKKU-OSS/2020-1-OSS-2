@@ -43,6 +43,21 @@ This only listed the key contributions, and you can check all of them by clickin
 <div>{%- include work-list.html userdata=_summary_d2 only_core=true -%}</div>
 [See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Dorika0203-Done.html)
 
+<div>{%- assign _summary_d3 = site.data.works.ChaeyeonSeo -%}</div>
+## [{{ _summary_d3.realnameEN }} ({{ _summary_d3.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-ChaeyeonSeo-Done.html)
+<div>{%- include work-list.html userdata=_summary_d3 only_core=true -%}</div>
+[See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-ChaeyeonSeo-Done.html)
+
+<div>{%- assign _summary_d4 = site.data.works.jesusleejy -%}</div>
+## [{{ _summary_d4.realnameEN }} ({{ _summary_d4.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-jesusleejy-Done.html)
+<div>{%- include work-list.html userdata=_summary_d4 only_core=true -%}</div>
+[See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-jesusleejy-Done.html)
+
+<div>{%- assign _summary_d5 = site.data.works.Hyuntae-Jeong -%}</div>
+## [{{ _summary_d5.realnameEN }} ({{ _summary_d5.name }})](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Hyuntae-Jeong-Done.html)
+<div>{%- include work-list.html userdata=_summary_d5 only_core=true -%}</div>
+[See All Contribution](https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/06/09/What-Hyuntae-Jeong-Done.html)
+
 # Theme
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 - We used [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)!
