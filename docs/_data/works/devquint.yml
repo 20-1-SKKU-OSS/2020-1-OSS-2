@@ -21,6 +21,12 @@ teamwork:
   - desc    : "Helped making readme.md of static page repo."
     linked  : "README.md"
     link    : "https://github.com/20-1-SKKU-OSS/2020-1-OSS-2/blob/master/README.md"
+  - desc    : "Made static page main that explaining the project overview"
+    linked  : "main page"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/"
+  - desc    : "Made about page that lists what we've done individually"
+    linked  : "about"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/about.html"
 projectwork:
   - desc    : "Managed labeling, assigning, and overall flow of issues and Pull Requests in team repo."
     linked  : 
@@ -30,10 +36,54 @@ projectwork:
     linked  : "See List"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3Adevquint+"
     core    : true
+  - desc    : "Code Review: Pointed out the convention of project and PEP 8"
+    linked  : "Team Repo. PR #2"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/2"
+    core    : false
+  - desc    : "Code Review: Pointed out errors of added comments"
+    linked  : "Team Repo. PR #4"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/4"
+    core    : false
+  - desc    : "Code Review: Informed the cause of error and suggested better improvement"
+    linked  : "Team Repo. PR #6"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/6"
+    core    : false
+  - desc    : "Code Review: Discussed about decorator grammar"
+    linked  : "Team Repo. PR #8"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/8"
+    core    : true
+  - desc    : "Code Review: Pointed out one minor typo"
+    linked  : "Team Repo. PR #52"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/52"
+    core    : false
+  - desc    : "Code Review: Informed about markdown grammar and suggested better improvement"
+    linked  : "Team Repo. PR #13"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/13"
+    core    : false
   - desc    : "First pointed out about indentation consistency issue"
     linked  : "Team Repo. Issue #11"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/11"
     core    : true
+  - desc    : "Wrote description of how-to-progress about unifying indent"
+    linked  : "Team Repo. Issue #20"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/20"
+    core    : true
+  - desc    : "Code Review: Pointed out some miss while unifying indent"
+    linked  : "Team Repo. PR #30"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/30"
+    core    : false
+  - desc    : "Code Review: Pointed out some miss while unifying indent"
+    linked  : "Team Repo. PR #31"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/31"
+    core    : false
+  - desc    : "Code Review: Pointed out one miss while unifying indent"
+    linked  : "Team Repo. PR #36"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/36"
+    core    : false
+  - desc    : "Code Review: Pointed out some miss while unifying indent"
+    linked  : "Team Repo. PR #39"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/39"
+    core    : false
   - desc    : "Unified indent to 4 spaces, even-more-python-... chapter 1-5"
     linked  : "Team Repo. PR #22"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/22"
@@ -42,11 +92,15 @@ projectwork:
     linked  : "Team Repo. PR #48"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/48"
     core    : false
-  - desc    : "Reviewed adding example using decorator"
-    linked  : "Team Repo. PR #8"
-    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/8"
-    core    : true
   - desc    : "Augmented decorator example"
     linked  : "Team Repo. PR #24"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/24"
-    core    : false
+    core    : true
+  - desc    : "Finalized project with remove conflicts"
+    linked  : "See List"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+label%3Afinalize+"
+    core    : true
+  - desc    : "Made PR of the unified indent to the original project repo."
+    linked  : "Project Repo. PR #67"
+    link    : "https://github.com/microsoft/c9-python-getting-started/pull/67"
+    core    : true
