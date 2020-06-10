@@ -29,7 +29,7 @@ key: page-about
 
 We worked various way like unify indent, compensate example, fix typo, and so on.
 
-Below are the individual contribution of the project, team leader comes first and other members' subsequnce is 가나다순(alphabetical order).
+Below are the individual contribution of the project, team leader comes first and other members' subsequnce is 가나다순(alphabetical order in Korean).
 
 This only listed the key contributions, and you can check all of them by clicking names or the link below.
 
