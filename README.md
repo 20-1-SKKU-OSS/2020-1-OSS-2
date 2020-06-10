@@ -64,8 +64,8 @@
   - GitHub ID: [jesusleejy](https://github.com/jesusleejy) 
 
 - 정현태
-  - 학번: 
-  - 전공: 
+  - 학번: 2019311859
+  - 전공: 소프트웨어학과 원전공
   - GitHub ID: [Hyuntae Jeong](https://github.com/Hyuntae-Jeong) 
 
 ## <div id="HowToDo">활동 방법</div>
