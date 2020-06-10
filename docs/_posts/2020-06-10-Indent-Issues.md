@@ -8,7 +8,7 @@ tags: Python_Getting_Started Indent_Issues
 Indent 관련 Issue 정리 및 개선 사항
 ======================================
 
-[1] Indent 관련 Issue 문제 제기
+[1] Indent 관련 Issue 발단 과정
 ----------------------------------------
 
 - Found Problem Not Working, Question about Formatting  
@@ -21,23 +21,27 @@ Indent 관련 Issue 정리 및 개선 사항
 [Unify indents to tab #10](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/10)
 - New issue opened about Indentation Consistency
 [Indentation Consistency Issue #11](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/11)
+- Decided to use 4 spaces indentation, New issue about diving roles, branches
+[4 Spaces Indentation issue #15](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/15)
+- Divided Branches and Roles, start on 4 spaces indentation works.
+[Unifying indentation to 4 spaces indent #20](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/20)
 
 
-
-
-[2] Code review 진행 상황
+[2] Indentation to 4 spaces indent 진행 상황
 ----------------------------------------
 
-c9-python-getting-started는 파이썬에 관한 내용을 알려주는 가이드북이기 때문에, 
-대부분의 Code Review들은 수정 및 추가된 code와 comment의 문법적 오류와 가독성을 개선하는 방향으로 이루어졌다.
-13주차 Code Review 강의 내 Rule of Code Review의 내용에서 컨벤션(코드스타일) 지적은 피하자는 부분이 있지만,
-본 프로젝트는 가이드북 프로젝트이고 [PEP8](https://www.python.org/dev/peps/pep-0008/)도 소개하고 있기 때문에 컨벤션 지적도 함께 이루어졌다.
-
--예시
-1. [Comment 추가에 관한 Pull Request](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5)  
-2. [가독성 개선에 관한 Code Review](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5#pullrequestreview-421394463)  
-3. [Commit 1차 수정](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5/commits/c47e8a63cecf5b4b6bce5c174f82121a16667dc4)  
-4. [Convention 지적에 관한 Code Review](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5#pullrequestreview-421482094)  
-5. [Commit 2차 수정](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/5/commits/87fcdccb86f312388d1dc320198fcacf9b7f7236)
-
-위와 같은 방식으로 Code Review와 수정이 이루어졌다.
+[Unifying indentation: python-for-beginners/chapter 2-4](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/28)  
+[Unifying indentation: python-for-beginners/chapter 5-7](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/51)  
+[Unifying indentation: python-for-beginners/chapter 8-10](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/31)  
+[Unifying indentation: python-for-beginners/chapter 11-13](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/39)  
+[Unifying indentation: python-for-beginners/chapter 14-16](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/41)  
+[Unifying indentation: python-for-beginners/chapter 17-18](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/43)  
+[Unifying indentation: more-python-for-beginners/chapter 1-3](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/30)  
+[Unifying indentation: more-python-for-beginners/chapter 4-6](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/33)  
+[Unifying indentation: more-python-for-beginners/chapter 7-9](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/36)  
+[Unifying indentation: even-more-python-for-beginners-... chapter 1-5](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/22)  
+[Unifying indentation: even-more-python-for-beginners/chapter 6-10](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/46) 
+[Unifying indentation: even-more-python-for-beginners-... chapter 11-15](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/48)  
+[Indent unify of python-for-beginners](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/54)  
+[Indent unify of more-python-for-beginners](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/55)  
+[Indent unify of even-more-python-for-beginners-data-tools](https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/56)
