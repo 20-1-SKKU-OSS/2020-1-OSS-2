@@ -13,19 +13,19 @@ teamwork:
     linked  : 
     link    : 
   - desc    : "Posted about individual works planning"
-    linked  : "static page post(Korean)"
+    linked  : "Static Page Post(Korean)"
     link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Individual-Role.html"
   - desc    : "Made html and schema for individual works"
-    linked  : "static page post(Korean)"
+    linked  : "Static Page Post(Korean)"
     link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/28/Made-Work-Template.html"
   - desc    : "Helped making readme.md of static page repo."
     linked  : "README.md"
     link    : "https://github.com/20-1-SKKU-OSS/2020-1-OSS-2/blob/master/README.md"
   - desc    : "Made static page main that explaining the project overview"
-    linked  : "main page"
+    linked  : "Main Page"
     link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/"
   - desc    : "Made about page that lists what we've done individually"
-    linked  : "about"
+    linked  : "About Page"
     link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/about.html"
 projectwork:
   - desc    : "Managed labeling, assigning, and overall flow of issues and Pull Requests in team repo."
