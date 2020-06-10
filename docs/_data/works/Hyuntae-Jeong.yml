@@ -25,6 +25,10 @@ projectwork:
     linked  : "Team Repo. - Pull Request #18"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/18"
     core    : true
+  - desc    : "Changed folder name 'Slides' to '00 - Slides' in better-more-python-for-beginners"
+    linked  : "Team Repo. - Pull Request #47"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/47"
+    core    : true
   - desc    : "Changed folder name 'Slides' to '00 - Slides' in more-python-for-beginners (Closed)"
     linked  : "Team Repo. - Pull Request #19"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/19"
@@ -45,14 +49,6 @@ projectwork:
     linked  : "Team Repo. - Pull Request #43"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/43"
     core    : true  
-  - desc    : "Changed folder name 'Slides' to '00 - Slides' in better-more-python-for-beginners"
-    linked  : "Team Repo. - Pull Request #47"
-    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/47"
-    core    : true
-  - desc    : "Reviewed pull requests in team repo."
-    linked  : "See List"
-    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3AHyuntae-Jeong+"
-    core    : true
   - desc    : "Discussed about markdown file about 'fix a typing error #13' PR"
     linked  : "Team Repo. - Pull Request #13"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/13"
@@ -65,3 +61,7 @@ projectwork:
     linked  : "Team Repo. - Pull Request #49"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/49"
     core    : false
+  - desc    : "Reviewed pull requests in team repo."
+    linked  : "See List"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3AHyuntae-Jeong+"
+    core    : true
