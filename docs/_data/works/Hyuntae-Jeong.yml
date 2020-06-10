@@ -3,9 +3,12 @@ id          : Hyuntae-Jeong
 realnameEN  : Hyuntae Jeong
 realnameKR  : 정현태
 teamwork:
-  - desc    : 
-    linked  : 
-    link    : 
+  - desc    : "Analyzed c9_python_getting_started project's closed, merged PR"
+    linked  : "static page post(korean)"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Closed-Pull-Request.html#closed"
+  - desc    : "Made a project contribute plan"
+    linked  : "static page post(korean)"
+    link    : "https://20-1-skku-oss.github.io/2020-1-OSS-2/2020/05/24/Project-Contribute-Plan.html"
 projectwork:
   - desc    : "Re-ordered the number of folders to start from 01 (Closed)"
     linked  : "Project Repo. - Pull Request #60"
@@ -43,4 +46,7 @@ projectwork:
     linked  : "Team Repo. - Pull Request #47"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/47"
     core    : true
-  
+  - desc    : "Reviewed pull requests in team repo."
+    linked  : "See List"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3AHyuntae-Jeong+"
+    core    : true
