@@ -50,3 +50,15 @@ projectwork:
     linked  : "See List"
     link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3AHyuntae-Jeong+"
     core    : true
+  - desc    : "Discussed about markdown file about 'fix a typing error #13' PR"
+    linked  : "Team Repo. - Pull Request #13"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/13"
+    core    : true
+  - desc    : "Added additional comment about dictionary on 'Add comment #14' PR"
+    linked  : "Team Repo. - Pull Request #14"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/14"
+    core    : true
+  - desc    : "Added comma at format_date.py, get_current_date.py on PR #49"
+    linked  : "Team Repo. - Pull Request #49"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/pull/49"
+    core    : true
