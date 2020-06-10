@@ -29,6 +29,9 @@ layout: page
   {%- endif -%}
 {%- endfor -%}
 
+{% capture my_include %}{% include index.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
 {%- assign _type = page.articles.type | default: layout.articles.type -%}
 
 {%- if _articles -%}
