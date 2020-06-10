@@ -104,3 +104,11 @@ projectwork:
     linked  : "Project Repo. PR #67"
     link    : "https://github.com/microsoft/c9-python-getting-started/pull/67"
     core    : true
+  - desc    : "Discussed about how to deal with indent issue"
+    linked  : "Project Repo. Issue #15"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/15"
+    core    : false
+  - desc    : "Discussed about how to deal with Korean translation"
+    linked  : "Project Repo. Issue #27"
+    link    : "https://github.com/20-1-SKKU-OSS/c9-python-getting-started/issues/27"
+    core    : false
